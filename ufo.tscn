@@ -19,3 +19,4 @@ texture = ExtResource("1_2hrf8")
 shape = SubResource("CircleShape2D_pc0cv")
 
 [node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(2, 2)
